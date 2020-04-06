@@ -28,13 +28,13 @@ class YoutubeActivity : YouTubeBaseActivity(), YouTubePlayer.OnInitializedListen
         p1: YouTubePlayer?,
         p2: Boolean
     ) {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+
     }
 
     override fun onInitializationFailure(
         p0: YouTubePlayer.Provider?,
         p1: YouTubeInitializationResult?
     ) {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+
     }
 }
