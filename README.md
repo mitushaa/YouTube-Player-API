@@ -1,4 +1,4 @@
-# YouTube Player using Kotlin# YouTube Player Application using Kotlin
+# YouTube Player Application using Kotlin
 
  ![](https://miro.medium.com/max/840/1*oyjW0tejW_oiznAo4hNThA.png)<br><br>
 
